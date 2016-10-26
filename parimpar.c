@@ -20,5 +20,5 @@ int main()
                 printf("\nÉ impar!");
             }
     }
-    
+return 0;
 }
